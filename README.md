@@ -11,7 +11,6 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>About Me</h3>
       <p>Welcome to my GitHub profile! I am a passionate Software Engineering undergraduate at SLIIT with hands-on experience in Full-Stack Development, Mobile App Development, and Database Management. I love solving real-world problems through code and continuously expanding my skill set.</p>
       <p>
         🔭 I’m currently working on <strong>MERN Stack Project</strong><br>
